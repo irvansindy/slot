@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T02:21:08.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="adHtq7ktIfpeEvLWqVrZ" version="20.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-10T02:21:20.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="98Bt4ZaJtkvQB9IHoLNA" version="20.4.0" type="github" pages="4">
   <diagram id="axD5uIzkEzsmhVbTHZHY" name="Register Diagram Activity">
     <mxGraphModel dx="1117" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -286,7 +286,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D3kH4q3bF3L4ZiuD3s53" name="WD Activity Diagram">
-    <mxGraphModel dx="264" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="446" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -344,7 +344,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mRg6XZ36ZsLxA7cYPriM-16" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Mentransfer nominal saldo utama ke rekening user&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=none;strokeColor=#000000;strokeWidth=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="S2CP4hlUT49jUNVl_uBk-17">
-          <mxGeometry x="21" y="430" width="100" height="40" as="geometry" />
+          <mxGeometry x="16.12" y="430" width="109" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S2CP4hlUT49jUNVl_uBk-16" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;strokeWidth=1;fontFamily=Helvetica;fontSize=10;fontColor=default;" vertex="1" parent="S2CP4hlUT49jUNVl_uBk-17">
           <mxGeometry x="56" y="510" width="30" height="30" as="geometry" />
